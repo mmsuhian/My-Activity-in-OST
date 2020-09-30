@@ -4,7 +4,7 @@ public class PassFail {
  public static void main(String[] args) {
   int num;
   Scanner basahin = new Scanner(System.in);
-  System.out.println("Enter score: ")
+  System.out.println("Enter score: ");
   numero = basahin.nextInt();
   
   if (numero>=99   )
